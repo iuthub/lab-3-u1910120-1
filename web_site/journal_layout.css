@@ -4,7 +4,6 @@ body{
 	margin-left: 10%;
 	margin-right: 10%;
 	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Y7uzJcKnhw67kgpt3QaJdOSQMSKUOA7CuA&usqp=CAU);
-	
 }
 
 #container{
@@ -20,6 +19,9 @@ background-color: #E8FBFB;
 padding: 5px;
 margin-top: 10px;
 overflow: hidden;
+
+
+
 }
 
 #heading{
@@ -41,4 +43,19 @@ border-bottom: 2px #009097 dashed;
 	float: right;
 }
 
+#navigation{
+	background-color: #99E0E0;
+	float: left;
+	margin-top: 10px;
+	width: 150px;
+	padding: 5px;
+	border: 5px #009097 solid;
+	height: 200px;
+
+}
+
+
+* *:hover {
+	background-color: #FFCCE2;
+}
 
