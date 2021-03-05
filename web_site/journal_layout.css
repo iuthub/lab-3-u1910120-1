@@ -1,0 +1,44 @@
+
+body{
+
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Y7uzJcKnhw67kgpt3QaJdOSQMSKUOA7CuA&usqp=CAU);
+	
+}
+
+#container{
+
+border: 10px white solid;
+background-color: white;
+}
+
+.content{
+
+border: 4px #C2E9E9 solid;
+background-color: #E8FBFB;
+padding: 5px;
+margin-top: 10px;
+overflow: hidden;
+}
+
+#heading{
+
+text-align: right;
+background-color: #A8F0F0;
+}
+
+#heading h2 {
+font-size: 14pt;
+
+}
+
+.date {
+border-bottom: 2px #009097 dashed;
+}
+
+.content img{
+	float: right;
+}
+
+
